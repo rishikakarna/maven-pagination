@@ -1,0 +1,5 @@
+here product and productdao are acting as a modal
+
+product class is an entity classes or javabean
+
+controller(servlet)------->forwards--------->to jsp(view)
